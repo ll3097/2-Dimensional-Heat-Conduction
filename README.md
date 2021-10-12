@@ -1,5 +1,12 @@
 # 2-Dimensional-heat-conduction
 
+**Introduction:**
+The objective of this project is to analyze the heat conduction in a turbine blade using the
+Finite Element Method. 
+ABAQUS is implemented for fundamental results generation. 
+MATLAB is implemented by self-coding for results validation.
+![image](https://user-images.githubusercontent.com/47397212/136883909-6de4522b-dc98-4208-a100-6d8975b764a4.png)
+
 **Instruction:**
 
 1.Firstly, please open the folder:'final project coarse mesh'. Then please run the file: 'heat2d.m' and you will get first two figures of temperature distribution and flux for coarse mesh.
